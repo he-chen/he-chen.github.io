@@ -95,7 +95,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 ## theme: landscape
 # archer theme
-theme:archer
+theme: archer
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
